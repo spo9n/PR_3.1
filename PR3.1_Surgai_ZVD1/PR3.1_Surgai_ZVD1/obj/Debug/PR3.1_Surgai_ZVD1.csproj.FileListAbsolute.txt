@@ -1,0 +1,10 @@
+C:\Users\Alienware\source\repos\ІЗВП\PR3.1_Surgai_ZVD1\PR3.1_Surgai_ZVD1\bin\Debug\PR3.1_Surgai_ZVD1.exe.config
+C:\Users\Alienware\source\repos\ІЗВП\PR3.1_Surgai_ZVD1\PR3.1_Surgai_ZVD1\bin\Debug\PR3.1_Surgai_ZVD1.exe
+C:\Users\Alienware\source\repos\ІЗВП\PR3.1_Surgai_ZVD1\PR3.1_Surgai_ZVD1\bin\Debug\PR3.1_Surgai_ZVD1.pdb
+C:\Users\Alienware\source\repos\ІЗВП\PR3.1_Surgai_ZVD1\PR3.1_Surgai_ZVD1\obj\Debug\PR3.1_Surgai_ZVD1.csprojAssemblyReference.cache
+C:\Users\Alienware\source\repos\ІЗВП\PR3.1_Surgai_ZVD1\PR3.1_Surgai_ZVD1\obj\Debug\PR3._1_Surgai_ZVD1.Form1.resources
+C:\Users\Alienware\source\repos\ІЗВП\PR3.1_Surgai_ZVD1\PR3.1_Surgai_ZVD1\obj\Debug\PR3._1_Surgai_ZVD1.Properties.Resources.resources
+C:\Users\Alienware\source\repos\ІЗВП\PR3.1_Surgai_ZVD1\PR3.1_Surgai_ZVD1\obj\Debug\PR3.1_Surgai_ZVD1.csproj.GenerateResource.cache
+C:\Users\Alienware\source\repos\ІЗВП\PR3.1_Surgai_ZVD1\PR3.1_Surgai_ZVD1\obj\Debug\PR3.1_Surgai_ZVD1.csproj.CoreCompileInputs.cache
+C:\Users\Alienware\source\repos\ІЗВП\PR3.1_Surgai_ZVD1\PR3.1_Surgai_ZVD1\obj\Debug\PR3.1_Surgai_ZVD1.exe
+C:\Users\Alienware\source\repos\ІЗВП\PR3.1_Surgai_ZVD1\PR3.1_Surgai_ZVD1\obj\Debug\PR3.1_Surgai_ZVD1.pdb
